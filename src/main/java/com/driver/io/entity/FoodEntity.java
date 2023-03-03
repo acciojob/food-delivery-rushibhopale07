@@ -64,4 +64,5 @@ public class FoodEntity{
 	public void setFoodCategory(String foodCategory) {
 		this.foodCategory = foodCategory;
 	}
+
 }
